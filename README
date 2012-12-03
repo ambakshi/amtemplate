@@ -1,0 +1,10 @@
+Simple automake project template, based on
+http://www.lrde.epita.fr/~adl/dl/autotools.pdf .
+
+$ autoreconf --install
+$ ./configure
+$ make
+
+
+Amit Bakshi
+12/2/2012
